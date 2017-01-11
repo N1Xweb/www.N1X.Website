@@ -1,0 +1,97 @@
+/*
+Copyright @itsN1X 2016.
+File: "main.css"
+DirNo: "7364"
+*/
+body {
+    box-shadow: 10px 10px 200px rgba(170, 180, 190, 0.96);
+    color: navy;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: auto auto auto;
+    max-width: 800px; 
+    padding-top: 100px;                       /*  fixed navbar xxx tall */
+    padding-bottom: 20px;
+}
+ .navbar
+{   
+    height: 100px;                            /*  navbar >>> Hgt */
+ 	background: rgb(60,60,60);  
+    font-family: Helvetica, Arial, Tahoma, sans-serif;
+}
+ 
+h1, h2, h3, h4, h5, h6 {
+    color: #2f0000;
+    font-weight: 600;
+    line-height: 1.3;
+}
+ h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    color: palegreen;
+}
+
+ { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #FAFAFA;
+  position: relative;
+}
+
+.carousel-cell {
+  width: 65%;
+  height: 200px;
+  margin-right: 10px;
+  background: #8C8;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  content: counter(carousel-cell);
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+
+.static-banner {
+  position: absolute;
+  background: hsla(0, 0%, 0%, 0.3);
+  z-index: 1;
+  padding: 2px 20px;
+  font-size: 26px;
+  color: white;
+  pointer-events: none;
+}
+
+.static-banner1 {
+  left: 10px;
+  top: 10px;
+}
+
+.static-banner2 {
+  right: 10px;
+  bottom: 10px;
+}
+b, strong {
+    font-weight: 600;
+}
+
+ img {
+    -webkit-animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+            animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
