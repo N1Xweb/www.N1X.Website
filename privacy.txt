@@ -2,10 +2,10 @@
 %% ------ itsN1X (b.) 1996.09.21 ------%%
 %% ------ Last Revised : 2017.05.14 ------ %%
 %% ------ Release Stamp : D7562t0538 ------ %%
-%% ------ Do NOT temper, extract or  re-distrubute any digital asset introduced herein. ------ %%
-%% ------ ALL LEGAL, MORAL, ETHICAL AND INTELLECTUAL RIGHTS RESERVED ------ %%
+%% ------ Do NOT temper, extract or  re-distrubute any digital asset introduced or re-introduced herein. ------ %%
+%% ------ ALL LEGAL, MORAL, ETHICAL, INTELLECTUAL AND PLATONIC RIGHTS RESERVED ------ %%
 
-$ dirs -l
+$ dirs -A -i
 >>
 ./ ~ / N1X-hardVault /  README.txt
-%% ------You are here ------ %%
+%% ------ You are here ------ %%
