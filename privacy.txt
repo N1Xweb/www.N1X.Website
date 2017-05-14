@@ -3,7 +3,7 @@
 %% ------ Last Revised : 2017.05.14 ------ %%
 %% ------ Release Stamp : D7562t0538 ------ %%
 %% ------ Do NOT temper, extract or  re-distrubute any digital asset introduced or re-introduced herein. ------ %%
-%% ------ ALL LEGAL, MORAL, ETHICAL, INTELLECTUAL AND PLATONIC RIGHTS RESERVED ------ %%
+%% ------ ALL LEGAL, MORAL, ETHICAL, AND INTELLECTUAL RIGHTS RESERVED ------ %%
 
 $ dirs -A -i
 >>
