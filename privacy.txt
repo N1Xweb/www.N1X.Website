@@ -8,4 +8,5 @@
 $ dirs -A -i
 >>
 ./ ~ / N1X-hardVault /  README.txt
-%% ------ You are here ------ %%
+%% ------- You are here ------- %%
+%% ----- I am everywhere ------ %%
